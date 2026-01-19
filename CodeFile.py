@@ -8,6 +8,7 @@ csv_data = pd.read_csv("C:\\Users\\ACER\\OneDrive\\Desktop\\MyProject\\Dataset\\
 
 print("CSV Data Preview:")
 print(csv_data.head())
+print(csv_data.tail())
 
 #print("\nExcel Data Preview:")
 #print(excel_data.head())
